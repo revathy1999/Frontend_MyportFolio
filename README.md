@@ -1,16 +1,57 @@
-# React + Vite
+Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack personal portfolio application built using MERN stack to showcase professional profile, technical skills, projects, and contact functionality. The application dynamically fetches portfolio content from backend APIs and includes cloud deployment with database integration.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend: https://your-vercel-url.vercel.app
+Backend API: https://your-render-url.onrender.com/api/portfolio
 
-## React Compiler
+📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Responsive modern portfolio UI
 
-## Expanding the ESLint configuration
+Dynamic content fetched from backend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Skills, projects, and profile managed through MongoDB
+
+Contact form with email sending functionality
+
+Resume download support
+
+Smooth section navigation
+
+Cloud deployment for frontend, backend, and database
+
+🛠 Tech Stack
+Frontend
+
+React
+
+Tailwind CSS
+
+JavaScript
+
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB Atlas
+
+Deployment
+
+Vercel
+
+Render
+
+📬 Contact Functionality
+
+Implemented mail sending using backend email integration for contact form submissions.
+
+🔄 Auto Deployment
+
+Connected GitHub repositories with cloud platforms for automatic deployment after code push.
