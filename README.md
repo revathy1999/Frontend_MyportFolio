@@ -4,7 +4,7 @@ A full-stack personal portfolio application built using MERN stack to showcase p
 
 🚀 Live Demo
 
-Frontend: https://your-vercel-url.vercel.app
+Frontend: https://frontend-myport-folio.vercel.app/
 Backend API: https://your-render-url.onrender.com/api/portfolio
 
 📌 Features
